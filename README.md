@@ -2,12 +2,6 @@
 
 Project for the class of RCOMP
 
-## Contributors
-
-- David Marques
-- Rodrigo Cardoso
-- Tomás Gonçalves
-
 ## Subjects
 
 - Types of Cabling
